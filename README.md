@@ -1,4 +1,4 @@
-# Elk-Stack-Part-1
+# Elk Stack Part 1
 
 Today I’m going to install and configure the Elastic stack on a virtual network for future use of introducing attack telemetry for analysis and overall practice to configure and fine tune detection rules to decrease noise and false positives.  I will be starting with 2 Linux servers and a Windows host and will add to the network in the future, with plans of incorporating ticketing systems or a tracking tool such as Jira. It is always best practice to take notes while building out and configuring systems. 
 <br>
